@@ -7,7 +7,7 @@ Aspiring Data Analyst & AI
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: hudaahmed](huda96320)
+[![Linkedin: hudaahmed](https://img.shields.io/badge/-hudaahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](www.linkedin.com/in/huda96320)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
