@@ -15,10 +15,44 @@ Aspiring Data Analyst & AI
 ```javascript
 const huda = {
   pronouns: "she" | "her",
-  code: [C++, Python, SQL, PHP, HTML, CSS, JavaScript],
-  tools: [Pandas, Numpy, Matplotlib, MySQL, XAMPP, React basics],
-  interests: ["Data Analysis", "Web Development", "Problem Solving"],
-  challenge: "Currently learning advanced data analysis & building a task management web project"
+  code: [
+    "C++", 
+    "Python", 
+    "SQL", 
+    "PHP", 
+    "HTML", 
+    "CSS", 
+    "JavaScript"
+  ],
+  tools: [
+    "Excel", 
+    "Pandas", 
+    "Numpy", 
+    "Matplotlib", 
+    "MySQL", 
+    "phpMyAdmin", 
+    "XAMPP", 
+    "React (basics)"
+  ],
+  excelSkills: [
+    "Data Cleaning & Processing",
+    "Pivot Tables & Pivot Charts",
+    "Data Visualization (Charts & Dashboards)",
+    "Formulas & Functions (VLOOKUP, XLOOKUP, INDEX/MATCH, etc.)"
+  ],
+  interests: [
+    "Data Analysis", 
+    "Problem Solving", 
+    "Learning new technologies"
+  ],
+  challenge: "Currently learning data analysis",
+  futureGoals: [
+    "Become a Data Analyst",
+    "Master SQL & Excel for data manipulation",
+    "Build professional dashboards & reports",
+    "Explore Big Data and AI basics"
+  ]
 }
+
 
 ---
