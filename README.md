@@ -1,13 +1,13 @@
 <h2> Hi, I'm Huda! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<p><em>Computer Engineering Student at <a href="https://www.asu.edu.eg/">May University</a> 
+<p><em>Computer Engineering Student at May University
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-Aspiring Data Analyst & AI
+Aspiring Data Analyst & AI Enthusiast
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: hudaahmed](https://img.shields.io/badge/-hudaahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](www.linkedin.com/in/huda96320)
+[![Linkedin: hudaahmed](https://img.shields.io/badge/-hudaahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huda96320/)](https://www.linkedin.com/in/huda96320)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -26,7 +26,7 @@ const huda = {
   tools: [
     "Excel", 
     "Pandas", 
-    "Numpy", 
+    "NumPy", 
     "Matplotlib", 
     "MySQL", 
     "phpMyAdmin", 
@@ -52,6 +52,5 @@ const huda = {
     "Explore Big Data and AI basics"
   ]
 }
-
 
 ---
